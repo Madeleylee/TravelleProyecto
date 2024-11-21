@@ -1,0 +1,253 @@
+{
+    "España": [
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731884455/Travelle/espana/alhambra/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731884454/Travelle/espana/alhambra/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731884454/Travelle/espana/alhambra/img3.jpg"
+            ],
+            "nombre": "La Alhambra",
+            "ubicacion_url": "https://www.google.es/travel/entity/key/ChUI_8SGkfG99MaAARoIL20vMDdoX2oQBA/overview?ts=CAEaBAoCGgAqBAoAGgA&utm_campaign=sharing&utm_medium=link_btn&utm_source=poi",
+            "tipo": "historia",
+            "precio": 14.0,
+            "valoracion": 4.8,
+            "ciudad": "Granada"
+        },
+        {
+            "rutaImagen":[
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940950/Travelle/espana/sagradaFamilia/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940950/Travelle/espana/sagradaFamilia/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940950/Travelle/espana/sagradaFamilia/img3.jpg"
+            ] ,
+            "nombre": "Basílica de la Sagrada Família",
+            "ubicacion_url": "https://maps.app.goo.gl/2drFQuJ4naZUpErS6",
+            "tipo": "arte",
+            "precio": 26.0,
+            "valoracion": 4.8,
+            "ciudad": "Barcelona"
+        },
+        {
+            "rutaImagen":[
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886605/Travelle/espana/guell/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886605/Travelle/espana/guell/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886605/Travelle/espana/guell/img3.jpg"
+            ],
+            "nombre": "Parque Güell",
+            "ubicacion_url": "https://maps.app.goo.gl/ng34sGJrVwu1e2DCA",
+            "tipo": "naturaleza",
+            "precio": 10.0,
+            "valoracion": 4.6,
+            "ciudad": "Barcelona"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731939638/Travelle/espana/museoPrado/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731939638/Travelle/espana/museoPrado/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731939638/Travelle/espana/museoPrado/img3.jpg"
+            ],
+            "nombre": "Museo Nacional del Prado",
+            "ubicacion_url": "https://goo.gl/maps/ZkfwCB3zZKN2",
+            "tipo": "arte",
+            "precio": 15.0,
+            "valoracion": 4.7,
+            "ciudad": "Madrid"
+        },
+        {
+            "rutaImagen":[
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940009/Travelle/espana/plazaEspana/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940009/Travelle/espana/plazaEspana/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940009/Travelle/espana/plazaEspana/img3.jpg"
+            ] ,
+            "nombre": "Plaza de España",
+            "ubicacion_url": "https://maps.app.goo.gl/413vqAE2TxskbNhe6",
+            "tipo": "historia",
+            "precio": 0.0,
+            "valoracion": 4.7,
+            "ciudad": "Sevilla"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940338/Travelle/espana/parqueDonana/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940338/Travelle/espana/parqueDonana/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731940337/Travelle/espana/parqueDonana/img3.jpg"
+            ],
+            "nombre": "Parque Nacional de Doñana",
+            "ubicacion_url": "https://maps.app.goo.gl/z5L2cNimr6kuzd7B6",
+            "tipo": "naturaleza",
+            "precio": 0.0,
+            "valoracion": 4.5,
+            "ciudad": "Huelva"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885430/Travelle/espana/catedralSevilla/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885429/Travelle/espana/catedralSevilla/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885429/Travelle/espana/catedralSevilla/img3.jpg"
+            ],
+            "nombre": "Catedral de Sevilla",
+            "ubicacion_url": "https://maps.app.goo.gl/srehhMhUzajPjN8M7",
+            "tipo": "historia",
+            "precio": 13.0,
+            "valoracion": 4.8,
+            "ciudad": "Sevilla"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885051/Travelle/espana/casaBatllo/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885051/Travelle/espana/casaBatllo/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885051/Travelle/espana/casaBatllo/img3.jpg"
+            ],
+            "nombre": "Casa Batlló",
+            "ubicacion_url": "https://maps.app.goo.gl/ZNWKMws8Gkg3Jhvu7",
+            "tipo": "arte",
+            "precio": 35.0,
+            "valoracion": 4.6,
+            "ciudad": "Barcelona"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885051/Travelle/espana/casaBatllo/img3.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885681/Travelle/espana/ciudadArtesYCiencias/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731885681/Travelle/espana/ciudadArtesYCiencias/img3.jpg"
+            ],
+            "nombre": "Ciudad de las Artes y las Ciencias",
+            "ubicacion_url": "https://maps.app.goo.gl/irbSoWHiPyhBdhzw7",
+            "tipo": "atraccion",
+            "precio": 11.5,
+            "valoracion": 4.6,
+            "ciudad": "Valencia"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886195/Travelle/espana/cuevaAltamira/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886195/Travelle/espana/cuevaAltamira/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731886194/Travelle/espana/cuevaAltamira/img3.jpg"
+            ],
+            "nombre": "Cueva de Altamira",
+            "ubicacion_url": "https://maps.app.goo.gl/ovkyqGxKs5TbA9429",
+            "tipo": "historia",
+            "precio": 3.0,
+            "valoracion": 4.5,
+            "ciudad": "Santillana del Mar"
+        }
+    ],
+    "Italia": [
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731941637/Travelle/italia/coliseoRomano/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731941636/Travelle/italia/coliseoRomano/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731941636/Travelle/italia/coliseoRomano/img3.jpg"
+            ],
+            "nombre": "Coliseo de Roma",
+            "ubicacion_url": "https://maps.app.goo.gl/JHMdg1V1hUXeS5wY9",
+            "tipo": "historia",
+            "precio": 18.0,
+            "valoracion": 4.7,
+            "ciudad": "Roma"
+        },
+        {
+            "rutaImagen": [
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731942210/Travelle/italia/granCanalVenecia/img1.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731942210/Travelle/italia/granCanalVenecia/img2.jpg",
+                "https://res.cloudinary.com/dxhxsxijx/image/upload/v1731942210/Travelle/italia/granCanalVenecia/img3.jpg"
+            ],
+            "nombre": "Gran Canal de Venecia",
+            "ubicacion_url": "https://maps.app.goo.gl/zxcqY9rviQttDcb88",
+            "tipo": "naturaleza",
+            "precio": 0.0,
+            "valoracion": 4.8,
+            "ciudad": "Venecia"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Catedral de Santa María del Fiore",
+            "ubicacion_url": "https://maps.app.goo.gl/6P6ZVp6e77ddTBDq9",
+            "tipo": "arte",
+            "precio": 0.0,
+            "valoracion": 4.7,
+            "ciudad": "Florencia"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Monte Vesubio",
+            "ubicacion_url": "https://maps.app.goo.gl/HxHEx5ERuFBRFoC49",
+            "tipo": "naturaleza",
+            "precio": 0.0,
+            "valoracion": 4.6,
+            "ciudad": "Nápoles"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Museo Vaticano",
+            "ubicacion_url": "https://maps.app.goo.gl/1VDxtsutbZwKAsKN8",
+            "tipo": "arte",
+            "precio": 20.0,
+            "valoracion": 4.6,
+            "ciudad": "Ciudad del Vaticano"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Torre de Pisa",
+            "ubicacion_url": "https://maps.app.goo.gl/hHyC3vnvHkgtLpVa7",
+            "tipo": "historia",
+            "precio": 20.0,
+            "valoracion": 4.5,
+            "ciudad": "Pisa"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Lago de Como",
+            "ubicacion_url": "https://maps.app.goo.gl/ZUVe3a5rrQzYtmiy5",
+            "tipo": "naturaleza",
+            "precio": 0.0,
+            "valoracion": 4.7,
+            "ciudad": "Como"
+        },
+        {
+            "rutaImagen": [
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ],
+            "nombre": "Piazza Navona",
+            "ubicacion_url": "https://maps.app.goo.gl/2jodXdEpPVg6jZXZ8",
+            "tipo": "historia",
+            "precio": 0.0,
+            "valoracion": 4.6,
+            "ciudad": "Roma"
+        },
+        {
+            "rutaImagen":[
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg",
+                "https://picsum.photos/200/300.jpg"
+            ] ,
+            "nombre": "Capilla Sixtina",
+            "ubicacion_url": "https://maps.app.goo.gl/KV68tEYsQiYUm16J8",
+            "tipo": "arte",
+            "precio": 20.0,
+            "valoracion": 4.8,
+            "ciudad": "Ciudad del Vaticano"
+        }
+    ]
+}
